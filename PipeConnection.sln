@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeConnection", "PipeConnection\PipeConnection.csproj", "{442495BF-59ED-4A84-883D-84438900B1DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442495BF-59ED-4A84-883D-84438900B1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442495BF-59ED-4A84-883D-84438900B1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442495BF-59ED-4A84-883D-84438900B1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442495BF-59ED-4A84-883D-84438900B1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7C79BF-4F73-4DD7-A8FC-512CDC52063B}
+	EndGlobalSection
+EndGlobal
